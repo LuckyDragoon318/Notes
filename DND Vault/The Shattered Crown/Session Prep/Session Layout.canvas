@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"5e2fabb0f4663a2d","type":"file","file":"The Shattered Crown/Session Prep/Session 0.md","x":-960,"y":-1720,"width":400,"height":400},
+		{"id":"ba4089c1d7ba20eb","type":"file","file":"The Shattered Crown/Session Prep/Session 1.md","x":-900,"y":-1260,"width":400,"height":400},
+		{"id":"6656fa81ec048045","type":"file","file":"The Shattered Crown/Session Prep/Session 2.md","x":-420,"y":-1320,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"974017d66068a89f","fromNode":"5e2fabb0f4663a2d","fromSide":"bottom","toNode":"ba4089c1d7ba20eb","toSide":"top"},
+		{"id":"02e91c5dce3ef00f","fromNode":"ba4089c1d7ba20eb","fromSide":"right","toNode":"6656fa81ec048045","toSide":"left"}
+	]
+}

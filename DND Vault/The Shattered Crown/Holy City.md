@@ -1,0 +1,1 @@
+The Holy City is world capital. The [[Holy City Counsel]] is based here, in a floating courthouse above the city center

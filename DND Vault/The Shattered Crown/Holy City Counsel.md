@@ -1,0 +1,1 @@
+Formed after the [[Ashen King]] fell, the [[Holy City]] Counsel serves as the governing body for the continent of [[Aethermoor]], it consists of 10 members of each of the 10 most populous species on the continent. 

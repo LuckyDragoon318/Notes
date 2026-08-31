@@ -1,0 +1,1 @@
+Aethermoor is the preindustrial continent in which all of my [[Campaigns|campaigns]] take place. The world has 7 Continents, an [[island chain]], and the [[Holy City]]. Within each [[kingdom]] there are [[villagers]] and [[Species]]. 

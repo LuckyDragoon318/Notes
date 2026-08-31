@@ -1,0 +1,6 @@
+The Shattered Crown is a D&D [[Campaigns]] written for a party starting at level 3, and ending at level 20. 
+
+**Description**
+[[Aethermoor]] is a place full of  ancient [[kingdoms]], forgotten [[ruins]], and [[mountains]] so tall that they block out the horizon. Six centuries ago, The [[Ashen King]], a terrible tyrant, conquered nearly the whole Continent. To do this he used the [[Crown of Domination]], an unimaginably powerful relic forged from the shattered soul of a long forgotten god. A party of 4 heroes banded together, defeated The [[Ashen King]], destroyed the crown, and spread the five pieces across the five kingdoms. Now, six centuries later, a new tyrant, [[Lord Varek]], seeks to reassemble the crown.
+
+As [[Lord Varek]] reassembles the crown, [[Karthavoss]], the eldest fire dragon, begins to stir in her lair. She was bound to her lair by the heroes, with the help of [[Malachar]], the god of conquest. While [[Karthavoss]] stirs, [[Malachar]] whispers into the minds of mortals who crave greater power than they can bear. 
